@@ -1,0 +1,17 @@
+*.mwb
+*.mwb.bak
+*.brM3
+*.brM3.bak
+*.drawio
+*.drawio.bkp
+*.drawio.dtmp
+*.vsdx
+~$*.vsdx
+*.mdj
+*.erwin
+*.pdm
+*.asta
+*.bpm
+*.dbm
+*.tmp
+*.temp
